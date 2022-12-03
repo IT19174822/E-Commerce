@@ -1,4 +1,4 @@
-# e-commerce-store
+﻿# e-commerce-store
 
 
 
@@ -23,7 +23,7 @@
 
  
 **For Backend**
- 1. `git clone https://github.com/MohitSojitra/e-commerce-store.git`
+ 1. `git clone https://github.com/IT19174822/E-Commerce.git`
  2. `cd e-comerce-backend`
  3. `yarn`
  4. `yarn data:import`
@@ -35,7 +35,7 @@
  2. `yarn`
  3. `yarn start`
 
-**NOTE** : If you stuck then contact me on LinkedIn (https://in.linkedin.com/in/mohit-sojitra)
+**NOTE** : If you stuck then contact me on LinkedIn (https://in.linkedin.com/in/Mathusan-Anantharajah
 
 ## Request
 
