@@ -11,6 +11,7 @@ const connectDB = async () => {
       process.env.MONGO_URI || 'mongodb://localhost:27017/cmscart',
       {
         useNewUrlParser: true,
+        
         useUnifiedTopology: true,
       },
     )
